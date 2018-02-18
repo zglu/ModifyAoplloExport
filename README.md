@@ -26,4 +26,6 @@ SM_V7_ZW	Apollo	exon	52309880	52310784	.	-	.	Parent=Smp_336850.1
 
 ## Usage
 
+~~~~~~
 ./pipeline.sh
+~~~~~~
