@@ -1,6 +1,6 @@
-# ModifyAoplloExport
+# ModifyAoplloGFF
 
-Modify the gff export from Apollo, changing Name to ID to reserve more meaningful words. 
+Modify the gff export from Apollo, changing Name to ID and to add UTR features. 
 
 For instance, the following export will be modified to:
 
