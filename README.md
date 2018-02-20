@@ -28,7 +28,7 @@ SM_V7_ZW	Apollo	five_prime_UTR	52311468	52312410	.	- .	Parent=Smp_336850.1
 ## Usage
 
 ~~~~~~
-./pipeline.sh
+./convertApollo.sh
 ~~~~~~
 
 Will take the input gff (input.gff) and transform to output.gff
